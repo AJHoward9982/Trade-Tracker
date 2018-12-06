@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Dec 05 18:37:05 EST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0167-80bb-6b12-0000071783f0 
+on database directory C:\Users\trobi\OneDrive - Florida Gulf Coast University\IntelliJ Projects\Trade Tracker\lib\guiDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@614ca7df 
+Loaded from file:/C:/Users/trobi/OneDrive%20-%20Florida%20Gulf%20Coast%20University/IntelliJ%20Projects/Trade%20Tracker/out/artifacts/Trade_Tracker_jar/Trade%20Tracker.jar
+java.vendor=Oracle Corporation
+java.runtime.version=10.0.2+13
+user.dir=C:\Users\trobi\OneDrive - Florida Gulf Coast University\IntelliJ Projects\Trade Tracker\out\artifacts\Trade_Tracker_jar
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
